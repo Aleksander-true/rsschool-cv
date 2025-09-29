@@ -1,0 +1,61 @@
+body {
+    width: 600px;
+}
+
+.main-section {
+    display: flex;
+    column-gap: 1em;
+}
+
+.cv-photo {
+    width: 50%;
+}
+
+.info-line {
+    font-size: 1.3em;
+}
+
+.info-line .accent {
+    font-weight: 700;
+}
+
+section {
+    padding: 1em;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 1.4em;
+}
+
+.section-text {
+    font-size: 1.1em;
+}
+
+.work-section .info,
+.education-section .info {
+    display: flex;
+    justify-content: space-between;
+}
+.work-section .date,
+.work-section .section-text,
+.education-section .date,
+.education-section .section-text {
+    padding: 0.5em 0;
+    margin: 0;
+}
+
+.education-section .date,
+.work-section .date {
+    width: 30%;
+}
+
+.work-section .section-text,
+.education-section .section-text {
+    width: 70%
+}
+
+.knoledge-list li{
+    padding: 0.2em 0;
+    font-size: 1.1em;
+}
