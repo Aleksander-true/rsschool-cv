@@ -1,1 +1,1 @@
-rsschool-cv
+https://Aleksnder-true.github.io/rsschool-cv/
